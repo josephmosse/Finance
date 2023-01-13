@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber totalenergies"] 1673441367 "totalenergies.bcf" "totalenergies.bbl" "totalenergies" 1673443371
-  "totalenergies.bcf" 1673443370 106768 bba279b3778d7575c970dc57a9b4c4dc "pdflatex"
+["biber totalenergies"] 1673594429 "totalenergies.bcf" "totalenergies.bbl" "totalenergies" 1673594438
+  "totalenergies.bcf" 1673594438 106768 bba279b3778d7575c970dc57a9b4c4dc "pdflatex"
   (generated)
   "totalenergies.bbl"
   "totalenergies.blg"
-["pdflatex"] 1673443368 "c:/Users/Joseph/Desktop/finance/totalenergies.tex" "totalenergies.pdf" "totalenergies" 1673443371
+["pdflatex"] 1673594436 "c:/Users/Joseph/Desktop/finance/totalenergies.tex" "totalenergies.pdf" "totalenergies" 1673594438
   "C:/Users/Joseph/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1673441347 252049 2fc30d3e523aa033490966a8c298c896 ""
   "C:/Users/Joseph/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1642499449 31952 262dfd3f8f2ec2755e2251aa9a952928 ""
   "C:/Users/Joseph/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1642499454 40136 070c408de350c954eeba393d95a5eedc ""
@@ -13,6 +13,8 @@
   "C:/Users/Joseph/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecsi1200.pk" 1673441957 29580 0015107360ad981247e8101ee01e6625 ""
   "C:/Users/Joseph/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecss1200.pk" 1673441426 23684 1e2f18be9cf173b2769a4a338fd6f6c3 ""
   "C:/Users/Joseph/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1200.pk" 1673443278 27340 194a338bb76145a8b185c1a3ca638401 ""
+  "C:/Users/Joseph/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk" 1669281510 39120 f68385df5f8410fefd4a0e7afa269534 ""
+  "C:/Users/Joseph/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1669281511 14064 e92745d2cfbae4d2b616935c1ebc9ea6 ""
   "C:/Users/Joseph/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1669627914 10375023 15e17a4f1005d2ddf70808b2c8091622 ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993058358 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993058360 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
@@ -23,6 +25,8 @@
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecsi1200.tfm" 993058572 3396 04a1973e553dc4e414cc9624e7bc8b06 ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecss1200.tfm" 993058636 3176 f34de6d605be5cc6bf472e93240318a5 ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecsx1200.tfm" 993058676 3180 599b3b5297559680c761cb378da37988 ""
+  "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecti1200.tfm" 993058724 2832 28bbd97ca29f46e76c87a158a9915203 ""
+  "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993058908 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -144,12 +148,12 @@
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238465940 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Joseph/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656233319 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/Joseph/Desktop/finance/totalenergies.tex" 1673443368 6042 98ab5a522033495a820cb9f2700f3eb9 ""
-  "totalenergies.aux" 1673443370 4362 9c0d940f0499645d437c729409dcd36b "pdflatex"
-  "totalenergies.bbl" 1673441370 486 ee04f40f768daeed26442158e95aba61 "biber totalenergies"
-  "totalenergies.out" 1673443370 5004 6c0dab7c327fd85868f492b68aea572c "pdflatex"
-  "totalenergies.run.xml" 1673443370 2406 e40c8a1f376ee2ec88bea90d24e50774 "pdflatex"
-  "totalenergies.tex" 1673443368 6042 98ab5a522033495a820cb9f2700f3eb9 ""
+  "c:/Users/Joseph/Desktop/finance/totalenergies.tex" 1673594393 19459 ff13ccd59c908737a4effe6121605a04 ""
+  "totalenergies.aux" 1673594438 5285 66f2a265a4a03825b4f04426c0efcbd4 "pdflatex"
+  "totalenergies.bbl" 1673594433 486 ee04f40f768daeed26442158e95aba61 "biber totalenergies"
+  "totalenergies.out" 1673594438 5326 bb0bbdaf1351427d5cbea8c67f2eb673 "pdflatex"
+  "totalenergies.run.xml" 1673594438 2406 e40c8a1f376ee2ec88bea90d24e50774 "pdflatex"
+  "totalenergies.tex" 1673594393 19459 ff13ccd59c908737a4effe6121605a04 ""
   (generated)
   "totalenergies.aux"
   "totalenergies.bcf"
