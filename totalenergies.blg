@@ -1,9 +1,9 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'totalenergies.blg'
-[175] biber-MSWIN64:340> INFO - === 
-[238] Biber.pm:418> INFO - Reading 'totalenergies.bcf'
-[389] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
-[408] bbl.pm:654> INFO - Writing 'totalenergies.bbl' with encoding 'UTF-8'
-[408] bbl.pm:757> INFO - Output to totalenergies.bbl
-[409] Biber.pm:130> WARN - The file 'totalenergies.bcf' does not contain any citations!
-[409] Biber.pm:132> INFO - WARNINGS: 1
+[157] biber-MSWIN64:340> INFO - === 
+[222] Biber.pm:418> INFO - Reading 'totalenergies.bcf'
+[393] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
+[415] bbl.pm:654> INFO - Writing 'totalenergies.bbl' with encoding 'UTF-8'
+[415] bbl.pm:757> INFO - Output to totalenergies.bbl
+[415] Biber.pm:130> WARN - The file 'totalenergies.bcf' does not contain any citations!
+[416] Biber.pm:132> INFO - WARNINGS: 1
